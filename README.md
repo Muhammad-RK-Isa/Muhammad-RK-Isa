@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Isa
 ### Learner at @ProgrammingHero1
-![Learner at @ProgrammingHero1](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/286739407_407122191356976_3578763812383143775_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHjarO0ZXHdCBTGSTt2hOV4s5DKsy74F-SzkMqzLvgX5La9gs8QapuEx1Z_3N4I-ZnDExOCodJej7PE8z3F9uQH&_nc_ohc=TUxMiyItKxMAX9Lmxgn&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_AaIrmSNayhgPGIjOntDqxwosMkK8QPDYhkp2yCXZqeQ&oe=635EBB68)
 
 Assalamualaikum. Currently I'm learning Basic HTML, CSS and JavaScript.
 
