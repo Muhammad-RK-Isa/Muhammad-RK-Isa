@@ -1,6 +1,6 @@
 # Muhammad Isa | Full Stack Web Application Developer
 
-Currently I'm learning advanced HTML, CSS and JavaScript, and will be stepping forward to backend technologies of websites and applications.
+Currently working on React.js projects and looking forward to contributing to Open Source Porjects that meets my expertise and interest.
 
 Skills: HTML, CSS, JavaScript, React.js, Next.js, Tailwindcss.
 
